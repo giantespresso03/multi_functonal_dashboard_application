@@ -1,7 +1,7 @@
 # Multi Functional Dashboard Application
 
-## Used Framework: QT
-## Used Language: C++
+### Used Framework: QT
+### Used Language: C++
 
 ### Project Description:
 I made a simple full-screen multi-functional dashboard application for casual or office use. I was mostly inspired by Google Home Hub and Amazon Echo Show, and tried my best to give the user a simple, yet effective experience. 
