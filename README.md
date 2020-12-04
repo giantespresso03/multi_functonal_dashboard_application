@@ -14,7 +14,7 @@ Here are the different functionalities of my application and the description of 
 - **Digital photo frame:** Displays 5 different pictures as a slideshow. The time frame for each slide show is 10 seconds.
 
 ### Startup Screen
-<img src="images/dashboard_app_1.jpg?raw=true"/>
+<img src="images/dashboard_app_1.PNG?raw=true"/>
 
 ### After Entering the Postal Code
-<img src="images/dashboard_app_2/jpg?raw=true"/>
+<img src="images/dashboard_app_2/PNG?raw=true"/>
