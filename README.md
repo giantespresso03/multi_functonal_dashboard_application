@@ -12,3 +12,9 @@ Here are the different functionalities of my application and the description of 
 - **Current weather information:** Displays the temperature, humidity, and a picture description of the current weather according to the the zip code that the user enters. It fetches the information from an api that's been created through this website: https://openweathermap.org/weather-conditions 
 - **Map with the current traffic information:** Displays the current traffic information according to the zip code that the user enters. 
 - **Digital photo frame:** Displays 5 different pictures as a slideshow. The time frame for each slide show is 10 seconds.
+
+### Startup Screen
+<img src="images/dashboard_app_1.jpg?raw=true"/>
+
+### After Entering the Postal Code
+<img src="images/dashboard_app_2/jpg?raw=true"/>
