@@ -17,4 +17,4 @@ Here are the different functionalities of my application and the description of 
 <img src="images/dashboard_app_1.PNG?raw=true"/>
 
 ### After Entering the Postal Code
-<img src="images/dashboard_app_2/PNG?raw=true"/>
+<img src="images/dashboard_app_2.PNG?raw=true"/>
